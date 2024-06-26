@@ -36,9 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hi everyone, this Haoyuan Wu. I am currently seeking an internship in web development. Computer science student with one year of experience in
-            software development. Demonstrated ability to lead a team. Good problem solver, debugger, and able to perform
-            challenging tasks.
+            Hi everyone, this Haoyuan Wu. I am currently seeking an opportunity in software development. I have a strong foundation in software development and a good understanding of algorithms and databases. 
+            I have a good understanding of the MERN(MongoDB, Express, React, Node) stack with several projects. Besides, I am currently self-learning IOS development as well so I am familiar with Swift and XCode. 
+            I am currently working as a QA analyst and am interested in transitioning to a software development role where I can leverage my skills and experience to contribute to innovative projects and grow within a dynamic team.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk!</a>
