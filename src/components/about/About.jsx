@@ -22,7 +22,12 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small> 3+ Years Coding</small>
+              <small> 2+ Years Software Testing
+                <br />
+                2+ Years Web/iOS Development
+                <br />
+
+              </small>
             </article>
             <article className='about__card'>
               <IoMdSchool className='about__icon' />
@@ -36,9 +41,17 @@ const About = () => {
             </article>
           </div>
           <p>
-            Hi everyone, this Haoyuan Wu. I am currently seeking an opportunity in software development. I have a strong foundation in software development and a good understanding of algorithms and databases. 
-            I have a good understanding of the MERN(MongoDB, Express, React, Node) stack with several projects. Besides, I am currently self-learning IOS development as well so I am familiar with Swift and XCode. 
-            I am currently working as a QA analyst and am interested in transitioning to a software development role where I can leverage my skills and experience to contribute to innovative projects and grow within a dynamic team.
+          I’m a Quality Assurance Engineer based in New York with 
+          a background in Computer Science and hands-on experience across QA, web, and iOS development. 
+          Over the past two years, I’ve focused on ensuring software quality through manual, regression, 
+          and API testing, while also building automation frameworks using Playwright, Postman, and TypeScript.
+          <br />
+          <br />
+          My development experience in web and mobile platforms gives me a deeper understanding of 
+          how software is built and tested end to end. I enjoy designing test strategies, 
+          collaborating with developers, and leveraging automation to improve efficiency and 
+          reliability. I’m ISTQB certified and continuously learning new tools and technologies to 
+          deliver better, faster, and more scalable testing solutions.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk!</a>

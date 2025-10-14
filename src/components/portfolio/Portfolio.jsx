@@ -6,7 +6,7 @@ import IMG3 from '../../asset/portfolio2.gif'
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My React Work</h5>
+      <h5>My Testing and Development Projects</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
         <article className='portfolio__item'>
