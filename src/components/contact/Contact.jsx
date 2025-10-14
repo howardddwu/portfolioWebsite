@@ -38,13 +38,13 @@ const Contact = () => {
             <AiOutlineWhatsApp className='contact__option-icon' />
             <h4>Whatsapp</h4>
             <h5>9293316701</h5>
-            <a href="https://api.whatsapp.com/send?phone=19293316701" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=19293316701" target='_blank' className='btn btn-primary'>Send a message</a>
           </article>
           <article className='contact__option'>
             <AiOutlineWechat className='contact__option-icon' />
             <h4>WeChat</h4>
             <h5>WeChat ID: howardddwu</h5>
-            <a href="https://web.wechat.com/?lang=en" target='_blank'>Add as friend</a>
+            <a href="https://web.wechat.com/?lang=en" target='_blank' className='btn btn-primary'>Add as friend</a>
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
